@@ -49,12 +49,11 @@ To run the project locally, follow these steps:
 
 ## Contributors
 
-- [Your Name]
+- Ashok Kumar A
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the VOIDDSOUL.
 
 ---
 
-Feel free to customize the README to include any additional information you think is relevant to your project. Make sure to replace `[Your Name]` with your actual name or your team's name.
